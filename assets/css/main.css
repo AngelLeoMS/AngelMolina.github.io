@@ -4233,6 +4233,7 @@ input, select, textarea {
 					}
 
 				#footer > section.split.contact > section {
+					text-align: center;
 					display: -moz-flex;
 					display: -webkit-flex;
 					display: -ms-flex;
